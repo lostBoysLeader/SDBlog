@@ -1,11 +1,5 @@
 <html>
 	<head>
-		<style>
-			div{
-			width: 800;
-			word-wrap: break-word;
-			}
-		</style>
 	</head>
 	<body>	
 		<h1>Blog 0</h1>
