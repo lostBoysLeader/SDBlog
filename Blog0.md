@@ -1,5 +1,8 @@
 <html>
 	<head>
+		---
+		layout: default
+		---
 	</head>
 	<body>	
 		<h1>Blog 0</h1>
