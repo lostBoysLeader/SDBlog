@@ -44,7 +44,7 @@
 	</p>
 	
 	<a href="https://www.w3schools.com/js/js_ajax_intro.asp">AJAX Intro</a>
-	
+	<br>
 	<a href="https://www.w3schools.com/js/js_json_intro.asp">JSON Intro</a>
 	
 	</div>
