@@ -43,9 +43,9 @@
 		
 	</p>
 	
-	<a href="https://datadome.co/bot-detection/how-to-detect-and-block-sneaker-bots-once-and-for-all/#work">DataDome</a>
+	<a href="https://www.w3schools.com/js/js_ajax_intro.asp">AJAX Intro</a>
 	
-	<a href="https://www.imperva.com/blog/9-recommendations-to-prevent-bad-bots-on-your-website/">imperva</a>
+	<a href="https://www.w3schools.com/js/js_json_intro.asp">Json Intro</a>
 	
 	</div>
 	</body>
