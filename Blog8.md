@@ -30,7 +30,7 @@
 		this particular situation?
 	<br>
 	
-	<img src="https://phaven-prod.s3.amazonaws.com/files/image_part/asset/607361/CausfGVcU2tskB-TR5b8CMm8Keg/medium_media_httpfarm5static_mevIk.png"
+	<img src="https://phaven-prod.s3.amazonaws.com/files/image_part/asset/607361/CausfGVcU2tskB-TR5b8CMm8Keg/medium_media_httpfarm5static_mevIk.png" alt="CAP Triangle">
 	
 	<br>
 		There isn't much to learn about AJAX. For the most part COMP 484
