@@ -1,6 +1,7 @@
 <html>
 <style> div{ width: 800; word-wrap: break-word; } div.a{ text-align: center; }
 	</style>
+<head>
 </head>
 <body>	
 	<h1>Blog 2-B</h1>
