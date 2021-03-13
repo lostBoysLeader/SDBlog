@@ -5,8 +5,14 @@
 </head>
 <body>	
 	<h1>Blog 3-B</h1>
-	<h2>Big IoT</h2>
+	<h2>IoT</h2>
 <div>
+	<br>
+<br>
+	<div class=a>
+	<img src="https://images.readwrite.com/wp-content/uploads/2019/05/What-to-Expect-from-a-Modern-IoT-Platform-in-2019-825x500.jpg" alt="World Data increase over time">
+	</div>
+
 <p>
 	&#x2003; &#x2003; The Internet of Things, or IoT for short, is a rapidly growing sector of internet enabled devices that
 	have little to no direct human control. This includes things like the Amazon Echo, Google Nest, Ring Doorbell, or almost anything that's described as "smart."
@@ -19,11 +25,7 @@
 	While these ideas are great, they come at an every increasing cost.
 <br>
 <br>
-	<div class=a>
-	<img src="https://images.readwrite.com/wp-content/uploads/2019/05/What-to-Expect-from-a-Modern-IoT-Platform-in-2019-825x500.jpg" alt="World Data increase over time">
-	</div>
-<br>
-<br>
+	
 	&#x2003; &#x2003; Most devices right now run on IPv4. With more and more homes purchasing multiple IoT devices the number of needed IP 
 	addresses will increase as well. This will help drive the eventual switchover to IPv6 mandatory for all devices in the future. Some IoT	
 	devices work exclusively on a closed network so will only clog local traffic. However, even if only every person owns only one IoT device
