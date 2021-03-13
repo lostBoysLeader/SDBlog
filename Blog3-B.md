@@ -44,7 +44,7 @@
 	
 </p>
 
-<a href="https://www.iotforall.com/5-worst-iot-hacking-vulnerabilities></a>
+<a href="https://www.iotforall.com/5-worst-iot-hacking-vulnerabilities"></a>
 <br>
 </div>
 </body>
