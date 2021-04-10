@@ -37,8 +37,8 @@
 	
 </p>
 
-<a href="https://kinsta.com/blog/nginx-vs-apache/"</a>
-<a href="https://www.nginx.com/blog/why-netflix-chose-nginx-as-the-heart-of-its-cdn/"</a>
+<a href="https://kinsta.com/blog/nginx-vs-apache/">Apache vs Nginx</a></a>
+<a href="https://www.nginx.com/blog/why-netflix-chose-nginx-as-the-heart-of-its-cdn/">Nginx on Netflix</a></a>
 <br>
 </div>
 </body>
